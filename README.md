@@ -7,3 +7,6 @@ Repositório para disponibilização dos trabalhos e projetos da disicplina.
 
 # Trabalho 1
 Código, instruções e explicações para o "Trabalho – Script de mapeamento" estão dentro do diretório `trabalho1`.
+
+# Projeto
+Código, instruções e explicações para o "Projeto – PHP Command Injection" estão dentro do diretório `projeto`.
