@@ -1,6 +1,22 @@
 version: '3'
 services:
-  web:
+  victim:
     build: .
+    networks:
+      internal_net:
     ports:
       - "8080:80"
+
+  backup:
+    build:
+      context: ./backup
+    networks:
+      internal_net:
+    ports:
+      - "2222:22"
+    depends_on:
+      - victim
+
+networks:
+  internal_net:
+    driver: bridge
