@@ -22,7 +22,7 @@ void check_port(int port, struct servent *service) {
     // Cria um socket para a comunicacao via TCP
     sock = socket(AF_INET, SOCK_STREAM, 0);
     if (sock < 0) { 
-        perror("Falha oa criar a socket");
+        perror("Falha ao criar a socket");
         return;
     }
 

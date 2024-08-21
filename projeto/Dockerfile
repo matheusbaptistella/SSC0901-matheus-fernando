@@ -6,7 +6,6 @@ RUN sed -i 's/deb.debian.org/archive.debian.org/g' /etc/apt/sources.list && \
     apt-get update && \
     apt-get install -y apt-utils iputils-ping openssh-client rsync netcat cron sudo --no-install-recommends
 
-# Generate SSH key pair
 RUN ssh-keygen -t rsa -b 4096 -f /root/.ssh/id_rsa -N ""
 
 COPY index.php /var/www/html/index.php
