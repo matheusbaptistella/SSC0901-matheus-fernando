@@ -2,7 +2,7 @@
 Repositório para disponibilização dos trabalhos e projetos da disicplina.
 
 # Grupo
-- Fernando
+- Fernando Braghiroli - 11800500
 - Matheus Baptistella - 11223117
 
 # Trabalho 1
