@@ -1,7 +1,7 @@
 # Trabalho 1
 
 ## Grupo
-- Fernando - nusp
+- Fernando Braghiroli - 11800500
 - Matheus Baptistella - 11223117
 
 ## Funcionamento
