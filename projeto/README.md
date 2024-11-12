@@ -108,3 +108,11 @@ ssh -i /root/.ssh/id_rsa -o StrictHostKeyChecking=no backupuser@backup
 backupuser@0fe91d2c7d29:~$ whoami
 backupuser
 ```
+
+## Público Alvo
+O público-alvo deste projeto de engenharia de segurança abrange uma ampla gama de pessoas, desde estudantes e profissionais da área até interessados sem conhecimento prévio no assunto. A proposta é tornar o conteúdo acessível para todos, com uma abordagem que possibilite tanto a compreensão de conceitos básicos para iniciantes quanto a expansão de conhecimentos para aqueles com formação técnica ou experiência no campo. Assim, a videoaula pode atender tanto a estudantes de engenharia e técnicos de segurança quanto gestores e colaboradores de empresas que desejam compreender melhor as práticas e normativas de segurança, além de entusiastas que buscam introdução ao tema.
+
+## Resultados
+A seguir estão expostos os resultados do formulário disponibilizado para o público alvo.
+![Texto Alternativo](./images/results1.png)
+![Texto Alternativo](./images/results2.png)
