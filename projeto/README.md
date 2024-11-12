@@ -114,5 +114,5 @@ O público-alvo deste projeto de engenharia de segurança abrange uma ampla gama
 
 ## Resultados
 A seguir estão expostos os resultados do formulário disponibilizado para o público alvo. Das imagens é possivel observar que nem todas os níveis de conhecimento do público alvo foram atingidos. Entretanto, as avaliações foram extremamente positivos, com ênfase na didática da aprensentação e nos detalhes.
-<img src="./images/results1.png" alt="" width="550" height="auto">
-<img src="./images/results2.png" alt="" width="550" height="auto">
+<img src="./images/results1.png" alt="" width="700" height="auto">
+<img src="./images/results2.png" alt="" width="700" height="auto">
