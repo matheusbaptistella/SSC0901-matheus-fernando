@@ -113,8 +113,6 @@ backupuser
 O público-alvo deste projeto de engenharia de segurança abrange uma ampla gama de pessoas, desde estudantes e profissionais da área até interessados sem conhecimento prévio no assunto. A proposta é tornar o conteúdo acessível para todos, com uma abordagem que possibilite tanto a compreensão de conceitos básicos para iniciantes quanto a expansão de conhecimentos para aqueles com formação técnica ou experiência no campo. Assim, a videoaula pode atender tanto a estudantes de engenharia e técnicos de segurança quanto gestores e colaboradores de empresas que desejam compreender melhor as práticas e normativas de segurança, além de entusiastas que buscam introdução ao tema.
 
 ## Resultados
-A seguir estão expostos os resultados do formulário disponibilizado para o público alvo.
+A seguir estão expostos os resultados do formulário disponibilizado para o público alvo. Das imagens é possivel observar que nem todas os níveis de conhecimento do público alvo foram atingidos. Entretanto, as avaliações foram extremamente positivos, com ênfase na didática da aprensentação e nos detalhes.
 <img src="./images/results1.png" alt="" width="500" height="auto">
 <img src="./images/results2.png" alt="" width="500" height="auto">
-
-Das imagens é possivel observar que nem todas os n;iveis de conhecimento do público alvo foram atingidos. Entretanto, as avaliações foram extremamente positivos, com ênfase na didática da aprensentação e nos detalhes.
