@@ -114,5 +114,5 @@ O público-alvo deste projeto de engenharia de segurança abrange uma ampla gama
 
 ## Resultados
 A seguir estão expostos os resultados do formulário disponibilizado para o público alvo.
-![Texto Alternativo](./images/results1.png)
-![Texto Alternativo](./images/results2.png)
+<img src="./images/results1.png" alt="" width="300" height="auto">
+<img src="./images/results2.png" alt="" width="300" height="auto">
